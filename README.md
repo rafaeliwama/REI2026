@@ -14,8 +14,6 @@ barnacles. Files are organized in the following directories:
 
 Input data for both analysis is described in the Supplementary Material SXX of the online version of this article and is available on NCBI.
 
-Software requirements are described on each script.
-
 
 ## Detailed directory and file descriptions.
 ### 1. `Virome_dir/` — virome reconstruction and analysis
